@@ -1,0 +1,94 @@
+# # Logs
+# logs
+# *.log
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+# pnpm-debug.log*
+# lerna-debug.log*
+
+# node_modules
+# dist
+# dist-ssr
+# *.local
+
+# # Editor directories and files
+# .vscode/*
+# !.vscode/extensions.json
+# .idea
+# .DS_Store
+# *.suo
+# *.ntvs*
+# *.njsproj
+# *.sln
+# *.sw?
+# # Node modules
+# node_modules/
+# client/node_modules/
+# server/node_modules/
+
+# # Env files
+# .env
+# .env.local
+# client/.env
+# server/.env
+
+# # Build outputs
+# dist/
+# build/
+
+# # Logs
+# npm-debug.log
+# yarn-debug.log
+# yarn-error.log
+# logs/
+# *.log
+
+# # System files
+# .DS_Store
+# Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules (Root, API, Frontend)
+node_modules/
+API/node_modules/
+frontend/node_modules/
+
+# Environment files
+.env
+.env.local
+API/.env
+frontend/.env
+
+# Build outputs
+dist/
+API/dist/
+frontend/dist/
+frontend/build/
+
+# Local files
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+.DS_Store
+Thumbs.db
