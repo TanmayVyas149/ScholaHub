@@ -15,63 +15,43 @@ ScholaHub simplifies daily school operations by offering:
 
 🚀 Features
 
-👑 1. Admin Dashboard
-
+👑 1. Admin Dashboard(School)
 Manage teachers and students
-
-Add / update / delete user accounts
-
+Add / update / delete new teacher and students
 Assign classes and subjects
-
 Publish notices
-
+Manage Daily Schedules
 Manage attendance & examinations
-
 View overall dashboard analytics
 
 👨‍🏫 2. Teacher Dashboard
-
 Mark attendance for assigned classes
-
-Add & manage notices for students
-
-Enter exam marks
-
-View student details
-
 Access teaching-related analytics
+View Notices for teachers
+View period schedule
 
 👨‍🎓 3. Student Dashboard
-
 View attendance records
-
-Check exam results & notices
-
 See timetable or schedule
-
-Update personal profile
-
-View teacher announcements
+View notices specific for student
 
 🧰 Tech Stack
-Frontend
 
+Frontend-
 React.js
-
 Vite
-
 Material UI
-
 Axios
-
 React Router
+Formidable
+bcrypt
+Formik & Yup
 
 Backend
-
 Node.js
-
 Express.js
-
+Interceptor
+Multer
+Guard(Protected Route)
 JWT Authentication
-
 MongoDB + Mongoose
