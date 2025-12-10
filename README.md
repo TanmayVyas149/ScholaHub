@@ -2,6 +2,7 @@
 
 A modern, full-stack school management platform providing seamless academic operations for Admins, Teachers, and Students.
 ScholaHub centralizes attendance tracking, user management, notices, examinations, and secure authentication in one powerful dashboard.
+
 🎯 Project Goals
 
 ScholaHub simplifies daily school operations by offering:
@@ -13,6 +14,7 @@ ScholaHub simplifies daily school operations by offering:
 ✔ Secure APIs with Node.js, Express & JWT
 
 🚀 Features
+
 👑 1. Admin Dashboard
 
 Manage teachers and students
